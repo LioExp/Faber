@@ -1,0 +1,8 @@
+[package]
+name = "liteml"
+version = "0.1.0"
+edition = "2021"
+description = "CLI de inferência local para segundo cérebro"
+
+[dependencies]
+
