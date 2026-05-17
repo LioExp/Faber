@@ -4,6 +4,8 @@
 
 **liteml** is a single-binary Rust CLI that indexes your Markdown notes (e.g., an [Obsidian](https://obsidian.md) vault), performs multilingual semantic search, and synthesises answers with a local 1.5B parameter language model — all **offline**, on as little as **4 GB of RAM**, without paid APIs or cloud dependencies.
 
+*Read this document in another language: [Portuguese](README.pt.md)*
+
 ![Rust](https://img.shields.io/badge/rust-1.75+-orange) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
