@@ -1,19 +1,19 @@
-# Política de Segurança
+# Security Policy
 
-## Reportar uma vulnerabilidade
+## Reporting a vulnerability
 
-Se encontrares uma vulnerabilidade de segurança no liteml, **não abras uma issue pública**.
+If you find a security vulnerability in liteml, **do not open a public issue**.
 
-Envia um email para **lioexp0@gmail.com** com:
-- Descrição detalhada da vulnerabilidade
-- Passos para reproduzir
-- Impacto potencial
+Send an email to **lioexp0@gmail.com** with:
+- Detailed description of the vulnerability
+- Steps to reproduce
+- Potential impact
 
-Responderemos em até 5 dias úteis. Agradecemos divulgação responsável.
+We will respond within 5 business days. We appreciate responsible disclosure.
 
-## Versões suportadas
+## Supported versions
 
-| Versão | Suporte |
-|--------|---------|
-| 0.2.x  | ✅ Ativa |
-| 0.1.x  | ❌ Descontinuada |
+| Version | Support |
+|---------|---------|
+| 0.2.x  | ✅ Active |
+| 0.1.x  | ❌ Discontinued |
