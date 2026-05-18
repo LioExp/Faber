@@ -1,5 +1,6 @@
-# liteml — O teu segundo cérebro offline com IA
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/58e4fb91-f9eb-4af3-939e-9b782aedc8fb" />
 
+# liteml — O teu segundo cérebro offline com IA
 > **"Se o meu PC não roda IA, vou construir uma que rode."**
 
 Um binário CLI em Rust que indexa notas Markdown (vaults do Obsidian), faz busca semântica multilingue e sintetiza respostas com um modelo de linguagem de 1.5B parâmetros.  
