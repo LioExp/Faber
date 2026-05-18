@@ -1,5 +1,6 @@
-# liteml
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d66cb23e-d9b0-4fa1-ad20-a37fc5f05231" />
 
+# liteml
 > *Lightweight AI runtime for your offline second brain.*
 
 **liteml** is a single-binary Rust CLI that indexes your Markdown notes (e.g., an [Obsidian](https://obsidian.md) vault), performs multilingual semantic search, and synthesises answers with a local 1.5B parameter language model — all **offline**, on as little as **4 GB of RAM**, without paid APIs or cloud dependencies.
