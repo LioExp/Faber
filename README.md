@@ -85,6 +85,3 @@ Lua hooks (10 lines to block `rm -rf`). WASM tools (plugins in any language). Al
 
 · [Architecture](docs/ARCHITECTURE.md) · [Models](docs/MODELOS.md) · [Contribute](CONTRIBUTING.md)
 
----
-
-**Made with ❤️ in Angola. Your coding agent, offline, no excuses.**
