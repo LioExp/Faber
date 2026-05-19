@@ -6,7 +6,7 @@
 [![Rust](https://img.shields.io/badge/rust-1.75+-orange)](https://www.rust-lang.org)
 
 **Tudo o que o Pi faz. Tudo o que o Hermes faz. No teu hardware, seja ele qual for.**
-
+> leia em outra língua [english](README.md)
 ---
 
 ## O que é
