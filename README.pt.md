@@ -82,9 +82,4 @@ Hooks Lua (10 linhas para bloquear `rm -rf`). Tools WASM (plugins em qualquer li
 
 ## Documentação
 
-[PRD completo](docs/PRD.md) · [Arquitetura](docs/ARCHITECTURE.md) · [Modelos](docs/MODELOS.md) · [Contribuir](CONTRIBUTING.md)
-
----
-
-**Feito com ❤️ em Angola. O teu agente de código, offline, sem desculpas.**
-```
+· [Arquitetura](docs/ARCHITECTURE.md) · [Modelos](docs/MODELOS.md) · [Contribuir](CONTRIBUTING.md)
