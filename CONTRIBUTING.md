@@ -1,4 +1,4 @@
-# Contributing to liteml
+# Contributing to Faber
 
 Thank you for your interest in contributing! 🎉
 
@@ -28,8 +28,8 @@ By participating, you are expected to uphold this code.
 
 3. **Clone the repository**:
    ```bash
-   git clone https://github.com/LioExp/LiteML.git
-   cd LiteML
+   git clone https://github.com/LioExp/Faber.git
+   cd Faber
    ```
 
 4. **Build the project**:
