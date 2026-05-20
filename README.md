@@ -1,6 +1,6 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d66cb23e-d9b0-4fa1-ad20-a37fc5f05231" />
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/8cbedbcd-8809-4f9c-9d56-4642c44e1adc" />
 
-# liteml — The coding agent that scales with your hardware
+# Faber — The coding agent that scales with your hardware
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Rust](https://img.shields.io/badge/rust-1.75+-orange)](https://www.rust-lang.org)
@@ -19,7 +19,7 @@ A coding agent in your terminal. 4 tools (`read`, `write`, `edit`, `bash`). Loca
 ## Install
 
 ```bash
-cargo install liteml
+cargo install Faber
 liteml models download
 liteml dev
 ```
@@ -28,7 +28,7 @@ liteml dev
 
 ## Quick benchmark
 
-|  | liteml (4 GB) | Pi (16 GB) | Hermes (16 GB) |
+|  | Faber (4 GB) | Pi (16 GB) | Hermes (16 GB) |
 |--|---------------|------------|----------------|
 | RAM idle | **30 MB** | 144 MB | 256 MB |
 | RAM task | **1.1 GB** | 800 MB | 900 MB |
@@ -42,8 +42,8 @@ liteml dev
 
 ```bash
 $ cd ~/projects/auth-service
-$ liteml dev
-    liteml dev · Rust · 35 MB · RAM free: 14 GB
+$ Faber dev
+    Faber dev · Rust · 35 MB · RAM free: 14 GB
     Mode: hybrid
 
 > Read src/auth.rs, find the JWT validation bug and fix it.
