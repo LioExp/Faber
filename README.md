@@ -18,6 +18,7 @@
   <code>cargo install faber</code>
 </p>
 
+> read in another idioma [Portuguese](README.pt.md)
 ---
 
 Most code agents assume 8–16 GB of RAM, a stable connection, and a paid API key.  
