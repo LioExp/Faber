@@ -1,7 +1,7 @@
 <!-- Logo — colocar aqui quando finalizada -->
-<!-- <p align="center"><img src="assets/logo.svg" alt="Faber" width="80" /></p> -->
+<p align="center"><img src="docs/assets/logotipo.PNG" alt="Faber" width="1200" /></p>
 
-<h1 align="center">FABER</h1>
+<!-- <h1 align="center">FABER</h1> -->
 
 <p align="center">
   <em>a code agent that runs on the hardware you have</em>
