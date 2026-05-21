@@ -1,5 +1,5 @@
 <!-- Logo — colocar aqui quando finalizada -->
-<p align="center"><img src="docs/assets/logotipo.PNG" alt="Faber" width="1200" /></p>
+<p align="center"><img src="docs/assets/logotipo2.PNG" alt="Faber" width="800" /></p>
 
 <!-- <h1 align="center">FABER</h1> -->
 
